@@ -1,13 +1,13 @@
 
 
 ## 11-Hyunlaneige-FrontEnd
+https://www.youtube.com/watch?v=qiS5dv2H8Yo
 
-
-동영상 링크 추가하기 
-
+[강예지 블로그 후기](https://velog.io/@yejikang/wecodeproject-%ED%98%84%EB%9E%80%ED%95%B4S-%EC%9D%98-laneige-react-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
 ## 🖥 프로젝트 소개
 
  화장품 브랜드 LANEIGE 사이트 디자인 클론 및 기능 구현
+
 
 ## 🗓 기간 
 
@@ -15,9 +15,9 @@
 
 ## 👨‍💻 멤버
 
--  강예지 [블로그](https://velog.io/@yejikang/wecodeproject-%ED%98%84%EB%9E%80%ED%95%B4S-%EC%9D%98-laneige-react-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
--  유휘찬 (블로그)
--  한태규 (블로그)
+-  강예지 
+-  유휘찬
+-  한태규 
 
 ## 🔧 개발 목적
 
@@ -48,8 +48,9 @@
 ## 📌 구현 기능
 
 ### [로그인/회원가입]
-
-- 
+- 유효성 검사
+- POST/GET
+- access token을 local storage에 저장
 
 ### [상품리스트]
 
@@ -60,7 +61,7 @@
 
 ### [상세페이지]
 
-- 
+- 제품 상세 api 호출 및 응답받은 데이터를 활용하여 화면 출력
 
 ### [메인/nav바]
 - Navbar /스크롤이벤트를 이용해 비/활성화 설정   
