@@ -1,0 +1,609 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/24/20200824_final_Perfect-Renew-Youth-Regenerating-Cream_thumbnail_01_pc.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/24/20200824_final_Perfect-Renew-Youth-Regenerating-Cream_thumbnail_01_pc.png"
+      ],
+      "tag": ["초기피부노화징후개선", "안티에이징크림"],
+      "korean_name": "퍼펙트 리뉴 유스 리제너레이팅 크림"
+    },
+    {
+      "id": 2,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/19/20200818_final-Perfect-Renew-Youth-Regenerating-Eye-Cream-thumbnail-02_pc.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/19/20200818_final-Perfect-Renew-Youth-Regenerating-Eye-Cream-thumbnail-02_pc.png"
+      ],
+      "tag": ["초기피부노화징후개선", "안티에이징아이크림"],
+      "korean_name": "퍼펙트 리뉴 유스 리제너레이팅 아이 크림"
+    },
+    {
+      "id": 3,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/19/20200811_final_Perfect-Renew-Youth-Emulsion_thumbnail-02_pc.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/19/20200811_final_Perfect-Renew-Youth-Emulsion_thumbnail-02_pc.png"
+      ],
+      "tag": ["초기피부노화징후개선", "안티에이징에멀젼"],
+      "korean_name": "퍼펙트 리뉴 유스 에멀젼"
+    },
+    {
+      "id": 4,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/11/20200810_final_Perfect-Renew-Youth-Regenerator_thumbnail-02_pc.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/11/20200810_final_Perfect-Renew-Youth-Regenerator_thumbnail-02_pc.png"
+      ],
+      "tag": ["피부 초기노화징후 개선", "7일집중 에센스"],
+      "korean_name": "퍼펙트리뉴 유스 리제너레이터"
+    },
+    {
+      "id": 5,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/11/20200811_final_Perfect-Renew-Youth-Skin-Refiner_thumbnail-02_pc.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/11/20200811_final_Perfect-Renew-Youth-Skin-Refiner_thumbnail-02_pc.png"
+      ],
+      "tag": ["초기피부노화징후개선", "안티에이징스킨"],
+      "korean_name": "퍼펙트 리뉴 유스 스킨 리파이너"
+    },
+    {
+      "id": 6,
+      "is_new": "true",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/04/20200804_final_wsm-rescue-walter-ltd_pdp_thumbnails_pc_03_2.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/08/04/20200804_final_wsm-rescue-walter-ltd_pdp_thumbnails_pc_03_2.png"
+      ],
+      "tag": ["수분공급", "피부정화"],
+      "korean_name": "워터 슬리핑 마스크 월터앤프렌즈 리미티드"
+    },
+    {
+      "id": 7,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-balancing-skin-refiner-thumb_1.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-balancing-skin-refiner-thumb_1.png"
+      ],
+      "tag": ["지성피부", "산뜻한스킨"],
+      "korean_name": "에센셜 밸런싱 스킨 리파이너 라이트"
+    },
+    {
+      "id": 8,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential_balancing_emulsion_light_thumb-04_1.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential_balancing_emulsion_light_thumb-04_1.png"
+      ],
+      "tag": ["지성피부", "산뜻한로션"],
+      "korean_name": "에센셜 밸런싱 에멀젼 라이트"
+    },
+    {
+      "id": 9,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-power-skin-refiner-thumb.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-power-skin-refiner-thumb.png"
+      ],
+      "tag": ["건성_복합성피부", "촉촉한스킨"],
+      "korean_name": "에센셜 파워 스킨 리파이너 모이스춰"
+    },
+    {
+      "id": 10,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-power-emulsion-thumb.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/04/03/essential-power-emulsion-thumb.png"
+      ],
+      "tag": ["건성_복합성피부", "촉촉한로션"],
+      "korean_name": "에센셜 파워 에멀젼 모이스춰"
+    },
+    {
+      "id": 11,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/13/fresh-calming-sun-essence-06.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/13/fresh-calming-sun-essence-06.png"
+      ],
+      "tag": ["무기자차선크림", "산뜻촉촉"],
+      "korean_name": "프레시 카밍 선에센스"
+    },
+    {
+      "id": 12,
+      "is_new": "true",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/01/30/radian-c-cream-07.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/07/radian-c-cream-08.png"
+      ],
+      "tag": ["굿바이잡티", "비타민크림"],
+      "korean_name": "래디언-C 크림"
+    },
+    {
+      "id": 13,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Cream_skin_milkoil_cleanser_thumb_01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Cream_skin_milkoil_cleanser_thumb_01.png"
+      ],
+      "tag": ["클렌징밀크", "약산성클렌저"],
+      "korean_name": "크림 스킨 밀크 오일 클렌저"
+    },
+    {
+      "id": 14,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/09/Water_Bank_Hydro_Essence_70ML_thumb_06.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/05/Water_Bank_Hydro_Essence_70ML_thumb_list.gif"
+      ],
+      "tag": ["수분보습에센스", "민감피부수분광채에센스"],
+      "korean_name": "워터뱅크 하이드로 에센스"
+    },
+    {
+      "id": 15,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/09/Water_Bank_Moisture_Essence_70ML_thumb_06.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/09/Water_Bank_Moisture_Essence_70ML_thumb_06.png"
+      ],
+      "tag": ["수분광채에센스", "수분에센스"],
+      "korean_name": "워터뱅크 모이스춰 에센스"
+    },
+    {
+      "id": 16,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Water_Bank_Hydro_Cream_EX_thumb_04_1.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Water_Bank_Hydro_Cream_EX_thumb_list.png"
+      ],
+      "tag": ["수분광채크림", "수분크림"],
+      "korean_name": "워터뱅크 하이드로 크림 EX"
+    },
+    {
+      "id": 17,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/02/Water_Bank_Moisture_Cream_EX_thumb_03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Water_Bank_Moisture_Cream_EX_thumb_list.png"
+      ],
+      "tag": ["수분광채크림", "수분크림"],
+      "korean_name": "워터뱅크 모이스춰 크림 EX"
+    },
+    {
+      "id": 18,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/24/cica-sleeping-mask-thumb-01.jpg",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/10/Cica_Sleeping_Mask_thumb_list.gif"
+      ],
+      "tag": ["라네즈시카크림수면팩", "민감건성피부진정보습"],
+      "korean_name": "시카 슬리핑 마스크"
+    },
+    {
+      "id": 19,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/01/22/cream-skin-quick-skin-pack-01_01_w.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Cream_Skin_Quick_Skin_Pack_thumb_list_1.png"
+      ],
+      "tag": ["스킨팩", "토너팩"],
+      "korean_name": "크림 스킨 퀵 스킨 팩"
+    },
+    {
+      "id": 20,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Focus_Active_Ampoule-Panthenol-_thumb_05.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Focus_Active_Ampoule-Panthenol-_thumb_list.png"
+      ],
+      "tag": ["피부영양제", "판테놀앰플"],
+      "korean_name": "포커스 액티브 앰플 [판테놀]"
+    },
+    {
+      "id": 21,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Focus_Active_Ampoule-Amino_Acid-_thumb_05.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Focus_Active_Ampoule-Amino_Acid-_thumb_list.png"
+      ],
+      "tag": ["피부영양제", "아미노산앰플"],
+      "korean_name": "포커스 액티브 앰플 [아미노산]"
+    },
+    {
+      "id": 22,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Focus_Active_Ampoule-Soy_Peptide_thumb_05.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Focus_Active_Ampoule-Soy_Peptide_thumb_list.png"
+      ],
+      "tag": ["피부영양제", "탄력앰플"],
+      "korean_name": "포커스 액티브 앰플 [소이펩타이드]"
+    },
+    {
+      "id": 23,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/01/22/cream-skin-refiner-mist-01_01_w.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Cream_Skin_Refiner_Mist_thumb_list_1.png"
+      ],
+      "tag": ["12시간보습", "안개분사미스트"],
+      "korean_name": "크림 스킨 미스트"
+    },
+    {
+      "id": 24,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-tone-up-fluid-03_1.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/White_Dew_Tone-up_Fluid_SPF35_PA_thumb_list.png"
+      ],
+      "tag": ["안티폴루션", "톤업크림"],
+      "korean_name": "화이트 듀 톤업 플루이드"
+    },
+    {
+      "id": 25,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-original-ampoule-essence-05.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/White_Dew_Original_Ampoule_Essence_thumb_list.png"
+      ],
+      "tag": ["잡티개선", "브라이트닝에센스"],
+      "korean_name": "화이트 듀 오리지널 앰플 에센스"
+    },
+    {
+      "id": 26,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-skin-refiner-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-skin-refiner-02.png"
+      ],
+      "tag": ["브라이트닝", "맑고투명한피부"],
+      "korean_name": "화이트 듀 스킨 리파이너"
+    },
+    {
+      "id": 27,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-emulsion-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-emulsion-02.png"
+      ],
+      "tag": ["브라이트닝", "맑고투명한피부"],
+      "korean_name": "화이트 듀 에멀젼"
+    },
+    {
+      "id": 28,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-tone-up-cream-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-tone-up-cream-02.png"
+      ],
+      "tag": ["톤업크림", "맑고투명한피부"],
+      "korean_name": "화이트 듀 톤업 크림"
+    },
+    {
+      "id": 29,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-tone-up-sherbet-cream-04.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-tone-up-sherbet-cream-04.png"
+      ],
+      "tag": ["진정크림", "맑고투명한피부"],
+      "korean_name": "화이트 듀 샤베트 크림"
+    },
+    {
+      "id": 30,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-milky-cleanser-01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/wd-milky-cleanser-01.png"
+      ],
+      "tag": ["브라이트닝", "맑고투명한피부"],
+      "korean_name": "화이트 듀 밀키 클렌저"
+    },
+    {
+      "id": 31,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/air-light-sun-stick-3.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/air-light-sun-stick-3.png"
+      ],
+      "tag": ["간편자차", "가벼운선크림"],
+      "korean_name": "에어 라이트 선스틱"
+    },
+    {
+      "id": 32,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Perfect_Renew_Eye_Serum_thumb_03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Perfect_Renew_Eye_Serum_thumb_03.png"
+      ],
+      "tag": ["동안아이세럼", "데일리케어"],
+      "korean_name": "퍼펙트 리뉴 아이세럼 EX"
+    },
+    {
+      "id": 33,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/01/22/cream-skin-refiner-01_01_w.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Cream_Skin_Refiner_thumb_list.png"
+      ],
+      "tag": ["보습토너1위", "크림퐁당라네즈스킨"],
+      "korean_name": "크림 스킨"
+    },
+    {
+      "id": 34,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Time_Freeze_Skin_Refiner_thumb_02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Time_Freeze_Skin_Refiner_thumb_02.png"
+      ],
+      "tag": ["수분탄력", "주름개선"],
+      "korean_name": "타임프리즈 스킨 리파이너"
+    },
+    {
+      "id": 35,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Emulsion_thumb_02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Emulsion_thumb_02.png"
+      ],
+      "tag": ["수분탄력", "콜라겐에멀젼"],
+      "korean_name": "타임프리즈 에멀젼"
+    },
+    {
+      "id": 36,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/perfect-makeup-cleansing-water-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/perfect-makeup-cleansing-water-02.png"
+      ],
+      "tag": ["약산성클렌징", "딥클렌징"],
+      "korean_name": "퍼펙트 메이크업 클렌징 워터"
+    },
+    {
+      "id": 37,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/02/Lip_Glowy_Balm_thumb_02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/02/Lip_Glowy_Balm_thumb_02.png"
+      ],
+      "tag": ["립밤추천", "입술각질"],
+      "korean_name": "립 글로이 밤"
+    },
+    {
+      "id": 38,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/ClearC_Advanced_Effector_EX_thumb_01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/10/clear-c-advanced-effector-01.png"
+      ],
+      "tag": ["부스팅에센스", "비타민에너지"],
+      "korean_name": "클리어 C 어드밴스드 이펙터"
+    },
+    {
+      "id": 39,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/perfect-pore-cleansing-oil-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/perfect-pore-cleansing-oil-02.png"
+      ],
+      "tag": ["피지모공클리어", "딥클렌징"],
+      "korean_name": "퍼펙트 포어 클렌징 오일"
+    },
+    {
+      "id": 40,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/lip-n-eye-remover-wp-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/lip-n-eye-remover-wp-02.png"
+      ],
+      "tag": ["워터프루프리무버", "포인트메이크업"],
+      "korean_name": "립앤아이 리무버"
+    },
+    {
+      "id": 41,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/multi-deep-clean-cleanser-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Multi_Deep_Clean_Cleanser_thumb_list_1.png"
+      ],
+      "tag": ["선크림,각질제거OK", "딥클렌징"],
+      "korean_name": "멀티 딥 클린 클렌저"
+    },
+    {
+      "id": 42,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/18/moist-cream-cleanser-02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Moist_Cream_Cleanser_thumb_list_1.gif"
+      ],
+      "tag": ["미세먼지클렌징", "당김없는클렌징"],
+      "korean_name": "모이스트 크림 클렌저"
+    },
+    {
+      "id": 43,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/24/water-sleeping-mask-thumb-01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/24/Water_Sleeping_Mask_thumb_04.png"
+      ],
+      "tag": ["수분공급", "피부정화"],
+      "korean_name": "워터 슬리핑 마스크"
+    },
+    {
+      "id": 44,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/24/water-sleeping-mask-lavender-texture-04-water-sleeping-mask-lavender_2.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Water_Sleeping_Mask_Lavender_thumb_list.png"
+      ],
+      "tag": ["수분공급", "피부정화"],
+      "korean_name": "워터 슬리핑 마스크 라벤더"
+    },
+    {
+      "id": 45,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/24/eye-sleeping-mask-thumb-01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Eye_Sleeping_Mask_EX_thumb_list.png"
+      ],
+      "tag": ["수면팩", "눈가탄력"],
+      "korean_name": "아이 슬리핑 마스크"
+    },
+    {
+      "id": 46,
+      "is_new": "false",
+      "is_best": "true",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/06/Lip_Sleeping_Mask_thumb_04_5.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Lip_Sleeping_Mask_thumb_list.png"
+      ],
+      "tag": ["밤사이각질제거", "입술각질"],
+      "korean_name": "립 슬리핑 마스크"
+    },
+    {
+      "id": 47,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Essence_EX_thumb_03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Essence_EX_thumb_03.png"
+      ],
+      "tag": ["수분탄력", "고보습에센스"],
+      "korean_name": "타임프리즈 에센스 EX"
+    },
+    {
+      "id": 48,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Intensive_Cream_EX_thumb_03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Intensive_Cream_EX_thumb_03.png"
+      ],
+      "tag": ["수분탄력", "고보습크림"],
+      "korean_name": "타임프리즈 인텐시브 크림 EX"
+    },
+    {
+      "id": 49,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Time_Freeze_Eye_Serum_EX_thumb_02.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Time_Freeze_Eye_Serum_EX_thumb_02.png"
+      ],
+      "tag": ["수분탄력", "콜라겐아이세럼"],
+      "korean_name": "타임프리즈 아이 세럼 EX"
+    },
+    {
+      "id": 50,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Firming_Sleeping_Mask_thumb_04.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/15/Time_Freeze_Firming_Sleeping_Mask_thumb_list_1.png"
+      ],
+      "tag": ["수분탄력", "타임프리즈"],
+      "korean_name": "타임프리즈 퍼밍 슬리핑 마스크"
+    },
+    {
+      "id": 51,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/17/Light_Sun_Fluid_thumb_05.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/18/light-sun-fluid-thumb-list.png"
+      ],
+      "tag": ["가볍게밀착", "피부진정"],
+      "korean_name": "라이트 선 플루이드"
+    },
+    {
+      "id": 52,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/30/watery-sun-cream-thumb-03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/02/10/watery-sun-cream-thumb-03_01.png"
+      ],
+      "tag": ["강력자차", "워터프루프"],
+      "korean_name": "워터리 선크림"
+    },
+    {
+      "id": 53,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/06/20200427_final_water-bank-eye-gel_thumbnails_02_pc_1.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/06/water-bank-eye-gel-thumb_1.png"
+      ],
+      "tag": ["수분광채아이젤", "아이크림"],
+      "korean_name": "워터뱅크 아이 젤"
+    },
+    {
+      "id": 54,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/04/wb-moisture-mist-03.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/03/04/wb-moisture-mist-03.png"
+      ],
+      "tag": ["수분맑음피부", "수분충전"],
+      "korean_name": "워터뱅크 모이스춰 미스트"
+    },
+    {
+      "id": 55,
+      "is_new": "false",
+      "is_best": "false",
+      "image": [
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Water_Pocket_Sheet_Mask_thumb_01.png",
+        "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/11/14/Water_Pocket_Sheet_Mask_thumb_01.png"
+      ],
+      "tag": ["영양마스크", "데일리마스크팩"],
+      "korean_name": "워터포켓 시트마스크"
+    }
+  ]
+}

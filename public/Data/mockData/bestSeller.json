@@ -1,0 +1,46 @@
+{
+	"data": [
+		{
+			"enName": "CREAM SKIN REFINER",
+			"name": "크림 스킨",
+			"review": "스킨인데 뛰어난 보습지속력과,산뜻한 사용감으로 이만한 스킨은 없는 것 같아요",
+			"reviewId": "@rabb********",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2020/03/25/20200325_final_product_cream-skin_pc.png"
+		},
+		{
+			"enName": "WATER SLEEPING MASK",
+			"name": "워터 슬리핑 마스크",
+			"review": "수분감 충만한 슬림핑팩! 밤에 듬뿍 바르고 자고 일어나면 아침에 화장이 매우 잘먹는다",
+			"reviewId": "@heat********",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2019/11/15/bestseller-1.png"
+		},
+		{
+			"enName": "SKIN VEIL BASE",
+			"name": "스킨 베일 베이스",
+			"review": "피부 색이 탁해서 베이스를 무조건 깔아줘야하는 피부였는데 이거 쓰고나서 정착했어요",
+			"reviewId": "@dpql********",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2019/11/15/bestseller-2.png"
+		},
+		{
+			"enName": "WATER BANK HYDRO ESSENCE",
+			"name": "워터뱅크 하이드로 에센스",
+			"review": "얼굴도 속당김없이 여전히 촉촉하구요 재구매의사100%에요 다들 정말 추천합니다",
+			"reviewId": "@bin*****",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2019/11/15/bestseller-3.png"
+		},
+		{
+			"enName": "LIP SLEEPING MASK",
+			"name": "립 슬리핑 마스크",
+			"review": "자기전 딱 바르고 나면 다음 날 입술 컨디션이 넘넘 좋아져서 요즘 매일 사용하고 있어요",
+			"reviewId": "@cco*****",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2019/11/15/bestseller-4.png"
+		},
+		{
+			"enName": "LAYERING COVER CUSHION",
+			"name": "레이어링 커버쿠션",
+			"review": "컨실러랑 쿠션이 함께라서 옴총 편한 라네즈 로지쿠션💜",
+			"reviewId": "@rrab*******",
+			"img": "https://www.laneige.com/kr/ko/layout/main/best-seller/__icsFiles/afieldfile/2019/11/15/bestseller-5.png"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+  "product": {
+    "mainCategory": "유형별",
+    "category": "스킨/미스트",
+    "name": "크림 스킨",
+    "hashTag": ["보습토너1위", "크림퐁당라네즈스킨"],
+    "explain": "보습 크림 한 통을 그대로 녹여내어 토너만으로도 로션을 바른 듯 건조한 피부를 촉촉하게 채우고 피부를 진정시키는 라네즈 스킨케어 제품이에요.",
+    "volume": "150ml",
+    "price": "28,000원",
+    "src": [
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/28/Cream_Skin_Refiner_thumb_01_1.png",
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/28/Cream_Skin_Refiner_thumb_02.jpg",
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/28/Cream_Skin_Refiner_thumb_03.gif",
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/05/28/Cream_Skin_Refiner_thumb_04.jpg",
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2019/12/06/Cream_Skin_Refiner_thumb_05.jpg",
+      "https://www.laneige.com/kr/ko/skincare/__icsFiles/afieldfile/2020/01/22/cream-skin-refiner-01_01_w_1.png"
+    ],
+    "feature": "https://www.laneige.com/kr/ko/assets/pdp/beststep-bg.jpg",
+    "precautions": "1) 화장품 사용 시 또는 사용 후 직사광선에 의하여 사용부위가 붉은 반점, 부어오름 또는 가려움증 등의 이상 증상이나 부작용이 있는 경우 전문의 등과 상담할 것 2) 상처가 있는 부위 등에는 사용을 자제할 것 3) 보관 및 취급 시의 주의사항 가) 어린이의 손이 닿지 않는 곳에 보관할 것 나) 직사광선을 피해서 보관할 것",
+    "allIngredients": "정제수, 부틸렌글라이콜, 글리세린, 메도우폼씨오일, 1,2-헥산다이올, 폴리글리세릴-10스테아레이트, 글리세릴스테아레이트시트레이트, 소듐스테아로일글루타메이트, 이눌린라우릴카바메이트, 글리세릴카프릴레이트, 에틸헥실글리세린, 프로판다이올, 다이소듐이디티에이, 녹차추출물, 토코페롤"
+  },
+  "review": [
+    {
+      "id": "good****",
+      "starScore": 5,
+      "skinType": "건성",
+      "date": "2020-01-13",
+      "main": "상품평이 좋아서 기대하며 구매했는데 건성이 심한 저에게 너무 좋은 제품이예요. 스킨 로션 안 바르고 요거 하나만 발라줘도 촉촉하고 부들부들해서 너무 좋아요. 아미노산이 풍부하여 피부 진정 및 장벽 강화에 효과가 좋다는 말이 맞네요. 건조하고 푸석한 피부에 정말 좋아요. 추천합니다.",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202001/IMG157JhQ889ZSK941WqR5941_270.jpg",
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202001/IMG157vrn889igg944dDx3468_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    },
+    {
+      "id": "won5****",
+      "starScore": 5,
+      "skinType": "지성",
+      "date": "2020-09-05",
+      "main": "이것쓰다가 다른스킨못써요... 진짜 건조피부 완전 추천이에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천ㅇㅣ에요 이것쓰다가 다른스킨못써요 진짜 건조피부 완전 추천입니다!!!!!",
+      "src": [
+        "https://cdn.aritaum.com/UPLOAD/UPLOAD_IMAGE/ART/ART_REVIEW/202009/IMG159rCd928cuG610OCW4270_270.jpg"
+      ]
+    }
+  ]
+}

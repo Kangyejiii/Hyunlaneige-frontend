@@ -1,0 +1,10 @@
+.msgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .fas {
+    margin-bottom: 15px;
+    opacity: 0.4;
+  }
+}
